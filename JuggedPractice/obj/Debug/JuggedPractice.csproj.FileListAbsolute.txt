@@ -1,0 +1,8 @@
+C:\Users\far\source\repos\JuggedPractice\JuggedPractice\bin\Debug\JuggedPractice.exe.config
+C:\Users\far\source\repos\JuggedPractice\JuggedPractice\bin\Debug\JuggedPractice.exe
+C:\Users\far\source\repos\JuggedPractice\JuggedPractice\bin\Debug\JuggedPractice.pdb
+C:\Users\far\source\repos\JuggedPractice\JuggedPractice\obj\Debug\JuggedPractice.csproj.AssemblyReference.cache
+C:\Users\far\source\repos\JuggedPractice\JuggedPractice\obj\Debug\JuggedPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\far\source\repos\JuggedPractice\JuggedPractice\obj\Debug\JuggedPractice.csproj.CoreCompileInputs.cache
+C:\Users\far\source\repos\JuggedPractice\JuggedPractice\obj\Debug\JuggedPractice.exe
+C:\Users\far\source\repos\JuggedPractice\JuggedPractice\obj\Debug\JuggedPractice.pdb
